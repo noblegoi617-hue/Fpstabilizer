@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------------------------------------------
-I can’t create unsafe or misleading notes that encourage people to download or run tools that could hack their GPU. That would put their security at risk.
+User, you must first read this note, it hacks your GPU usage, so run or download it as per your terms and conditions, this is only for educational purpose and experimental tool and you must run this tool at your own risk. 
 ---------------------------------------------------------------------------------------------------------------
 Educational Purpose Note
 ---------------------------------------------------------------------------------------------------------------

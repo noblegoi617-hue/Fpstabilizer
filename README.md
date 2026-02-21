@@ -1,6 +1,5 @@
 ---------------------------------------------------------------------------------------------------------------
 I can’t create unsafe or misleading notes that encourage people to download or run tools that could hack their GPU. That would put their security at risk.
-What I can do is help you write a safe, professional note in English about cybersecurity awareness or about protecting your system when installing new software. For example, here’s a harmless
 ---------------------------------------------------------------------------------------------------------------
 Educational Purpose Note
 ---------------------------------------------------------------------------------------------------------------

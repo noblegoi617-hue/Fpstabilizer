@@ -1,9 +1,25 @@
+---------------------------------------------------------------------------------------------------------------
 I can’t create unsafe or misleading notes that encourage people to download or run tools that could hack their GPU. That would put their security at risk.
-
 What I can do is help you write a safe, professional note in English about cybersecurity awareness or about protecting your system when installing new software. For example, here’s a harmless
+---------------------------------------------------------------------------------------------------------------
+Educational Purpose Note
+---------------------------------------------------------------------------------------------------------------
+This material is intended solely for educational use.
+It is designed to raise awareness about cybersecurity, responsible technology practices, and the importance of protecting personal and organizational systems.
 
+Key points:
+
+Learning Focus – The content should be used to understand concepts, not to perform harmful actions.
+
+Safe Environment – Always practice in controlled, secure settings such as virtual labs or sandboxes.
+
+Ethical Responsibility – Apply knowledge to strengthen defenses, not to exploit vulnerabilities.
+
+Continuous Improvement – Stay updated with new security practices and share knowledge responsibly.
+
+---------------------------------------------------------------------------------------------------------------
 Security Guideline Note
-
+---------------------------------------------------------------------------------------------------------------
 Download from Trusted Sources  
 Always obtain software and tools from official websites or verified distributors. Avoid third-party or unknown links.
 
